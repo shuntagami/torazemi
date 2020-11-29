@@ -24,7 +24,6 @@ const Blog = () => {
   //   this.setState({count: this.state.count + 1})
   // }
 
-    const authorName = "shuntagami"
     return (
       <>
         <Article
